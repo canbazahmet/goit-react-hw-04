@@ -1,0 +1,19 @@
+.loadMoreBtn {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  background-color: #213547;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.loadMoreBtn:hover {
+  border-color: #cccccc;
+}
+.loadMoreBtn:focus,
+.loadMoreBtn:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}

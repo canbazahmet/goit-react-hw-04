@@ -17,6 +17,7 @@
     "react-hot-toast": "^2.6.0",
     "react-loader-spinner": "^8.0.0",
     "react-modal": "^3.16.3",
+    "react-spinners": "^0.17.0",
     "unsplash-api": "^1.2.0"
   },
   "devDependencies": {
