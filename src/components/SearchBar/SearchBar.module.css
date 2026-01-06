@@ -2,20 +2,21 @@
 }
 
 .searchBarForm {
-  background-color: #cccccc;
+  width: 100%;
+  background-color: blue;
   padding: 10px;
   display: flex;
   justify-content: center;
-  width: auto;
 }
 
 .searchBarInput {
   width: 640px;
   padding: 10px;
   margin-right: 12px;
+  border-radius: 8px;
   background-color: #fff;
-  border: transparent;
-  outline: transparent;
+  border: 0;
+  outline: none;
 }
 
 .searchBarBtn {
